@@ -1,0 +1,2 @@
+# f0c2e7c4c9de62bc-digital-marketing-customer-sup
+The fastest way to connect your app to real-time data in hours, not weeks. No setup fees. No learning curve.  RESTful JSON API with comprehensive documentation and code examples. Rate limiting, authentication, and error handling built in from the start.  ## What's Included  - Digital Marketing Customer Support Ticketing — fully configured and ready
